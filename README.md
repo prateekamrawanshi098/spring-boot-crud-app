@@ -16,8 +16,11 @@ No REST APIs are used; this project demonstrates database operations and Hiberna
 - Demonstrates Spring Boot lifecycle and bean initialization
 
 
-## Installation & Running
+## Installation
+
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/spring-boot-crud-app.git
+   git clone https://github.com/prateekamrawanshi098/spring-boot-crud-app.git
+
 
